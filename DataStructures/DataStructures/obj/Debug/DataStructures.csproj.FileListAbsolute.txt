@@ -1,0 +1,7 @@
+C:\Stuff\col\7F2020\ALG\DataStructures\DataStructures\bin\Debug\DataStructures.exe.config
+C:\Stuff\col\7F2020\ALG\DataStructures\DataStructures\bin\Debug\DataStructures.exe
+C:\Stuff\col\7F2020\ALG\DataStructures\DataStructures\bin\Debug\DataStructures.pdb
+C:\Stuff\col\7F2020\ALG\DataStructures\DataStructures\obj\Debug\DataStructures.csprojAssemblyReference.cache
+C:\Stuff\col\7F2020\ALG\DataStructures\DataStructures\obj\Debug\DataStructures.csproj.CoreCompileInputs.cache
+C:\Stuff\col\7F2020\ALG\DataStructures\DataStructures\obj\Debug\DataStructures.exe
+C:\Stuff\col\7F2020\ALG\DataStructures\DataStructures\obj\Debug\DataStructures.pdb
