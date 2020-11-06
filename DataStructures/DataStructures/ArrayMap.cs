@@ -33,7 +33,7 @@ namespace DataStructures
                 statesCapitalsArray[i, 1] = capitals[i];
             }
 
-            //adding states as keys and capitals are values to the hashtable
+            //adding states as keys and capitals as values to the hashtable
             for(int i = 0; i<50; i++){statesCapitalsHash.Add(states[i],capitals[i]);}
         }
 
