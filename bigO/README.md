@@ -1,5 +1,5 @@
 # Big O notation
-A C# Console Application with some brief methods that exemplify common types of big O notation: constant, linear and quadratic. 
+A C# Console Application with some brief methods that exemplify common types of big O notation: constant, linear and quadratic. These methods take an int array as an argument.
 
 The O(1) runtime method accesses the first and last elements of the array, therefore size of input does not matter. 
 
