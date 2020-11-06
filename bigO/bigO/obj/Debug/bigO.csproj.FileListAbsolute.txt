@@ -4,3 +4,9 @@ C:\Stuff\col\7F2020\ALG\bigO\bigO\bin\Debug\bigO.pdb
 C:\Stuff\col\7F2020\ALG\bigO\bigO\obj\Debug\bigO.csprojResolveAssemblyReference.cache
 C:\Stuff\col\7F2020\ALG\bigO\bigO\obj\Debug\bigO.exe
 C:\Stuff\col\7F2020\ALG\bigO\bigO\obj\Debug\bigO.pdb
+C:\Stuff\col\7F2020\ALG\git\bigO\bigO\bin\Debug\bigO.exe.config
+C:\Stuff\col\7F2020\ALG\git\bigO\bigO\obj\Debug\bigO.exe
+C:\Stuff\col\7F2020\ALG\git\bigO\bigO\obj\Debug\bigO.pdb
+C:\Stuff\col\7F2020\ALG\git\bigO\bigO\bin\Debug\bigO.exe
+C:\Stuff\col\7F2020\ALG\git\bigO\bigO\bin\Debug\bigO.pdb
+C:\Stuff\col\7F2020\ALG\git\bigO\bigO\obj\Debug\bigO.csprojResolveAssemblyReference.cache
