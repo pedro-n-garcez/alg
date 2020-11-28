@@ -1,0 +1,7 @@
+C:\Stuff\col\7F2020\ALG\git\Sorting\Sorting\bin\Debug\Sorting.exe.config
+C:\Stuff\col\7F2020\ALG\git\Sorting\Sorting\bin\Debug\Sorting.exe
+C:\Stuff\col\7F2020\ALG\git\Sorting\Sorting\bin\Debug\Sorting.pdb
+C:\Stuff\col\7F2020\ALG\git\Sorting\Sorting\obj\Debug\Sorting.csprojAssemblyReference.cache
+C:\Stuff\col\7F2020\ALG\git\Sorting\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\Stuff\col\7F2020\ALG\git\Sorting\Sorting\obj\Debug\Sorting.exe
+C:\Stuff\col\7F2020\ALG\git\Sorting\Sorting\obj\Debug\Sorting.pdb
