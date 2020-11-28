@@ -8,18 +8,12 @@ A C# Console Application that displays the most common sorting algorithms. Most 
 Bubblesort(Data: values[])
     Boolean: not_sorted = True
     While (not_sorted)
-
         not_sorted = False
-
         For i = 0 To <length of values> - 1
-
-
             If (values[i] < values[i - 1]) Then
-
                 Data: temp = values[i]
                 values[i] = values[i - 1]
                 values[i - 1] = temp
- 
                 // The array isn't sorted after all.
                 not_sorted = True
             End If
