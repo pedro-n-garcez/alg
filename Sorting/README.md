@@ -1,5 +1,5 @@
 # Sorting
-A C# Console Application that displays the most common sorting algorithms. Most implementations are based on those detailed in Rod Stephens's book *Essential Algorithms*.
+A C# Console Application that displays the most common sorting algorithms. Most implementations are based on those detailed in Rod Stephens's book *Essential Algorithms*. The application shows the sorted lists from each algorithm and the time (in milliseconds) they take to complete the task. Information on the algorithms is printed to the console, and a comparison table summarizing the algorithms is displayed at the end.
 ## Quadratic time sorts
 *These have an average time-complexity of O(n^2). They are simpler to implement and work best on smaller-sized lists.*
 ### BubbleSort
