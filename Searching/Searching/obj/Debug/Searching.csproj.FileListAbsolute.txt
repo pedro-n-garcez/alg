@@ -1,0 +1,7 @@
+C:\Stuff\col\7F2020\ALG\git\Searching\Searching\bin\Debug\Searching.exe.config
+C:\Stuff\col\7F2020\ALG\git\Searching\Searching\bin\Debug\Searching.exe
+C:\Stuff\col\7F2020\ALG\git\Searching\Searching\bin\Debug\Searching.pdb
+C:\Stuff\col\7F2020\ALG\git\Searching\Searching\obj\Debug\Searching.csprojAssemblyReference.cache
+C:\Stuff\col\7F2020\ALG\git\Searching\Searching\obj\Debug\Searching.csproj.CoreCompileInputs.cache
+C:\Stuff\col\7F2020\ALG\git\Searching\Searching\obj\Debug\Searching.exe
+C:\Stuff\col\7F2020\ALG\git\Searching\Searching\obj\Debug\Searching.pdb
