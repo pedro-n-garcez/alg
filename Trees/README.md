@@ -44,7 +44,7 @@ End TraverseInorder
 ### Max heap
 *Each child is lesser than or equal to its parent.*
 ### Min heap
-*Each child is greater than or equal to its parent."
+*Each child is greater than or equal to its parent.*
 ### Heapify an array
 *Here's how we reorder an array to satisfy the heap property. Pseudocode from Essential Algorithms.*
 ```
