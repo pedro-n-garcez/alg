@@ -56,6 +56,7 @@ namespace Trees
          * Finally, we traverse the right subtree by recursive call
          */
          //As example of what we can do with traversal, an operation is performed on each node data
+         //Traversal is O(n) complexity
         public void Traverse(BinaryNode root)
         {
             if (root == null)
